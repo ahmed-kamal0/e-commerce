@@ -54,14 +54,7 @@ Flutter + Dart
   get_it: ^8.2.0
   dio: ^5.9.0
   shared_preferences: ^2.5.3
-  
- ## Installing
-Open Terminal and Clone the Repo
-  git clone https://github.com/ahmed-kamal0/e-commerce
-Cd Over
-   cd Movies
-Run Pub
-   Flutter pub get
+
 
  ##  Images
 
