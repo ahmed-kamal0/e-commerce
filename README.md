@@ -32,28 +32,29 @@ Flutter + Dart
 - Google Fonts, Cached Images, Carousel Slider
 
 ## Dependencies
-   cupertino_icons: ^1.0.8
-  fluttertoast: ^8.2.10
-  google_fonts: ^6.2.1
-  flutter_screenutil: ^5.9.3
-  auto_size_text: ^3.0.0
-  flutter_native_splash: ^2.4.4
-  cached_network_image: ^3.4.1
-  flutter_image_slideshow: ^0.1.6
-  colornames: ^0.2.0
-  carousel_slider_plus: ^7.1.0
-  readmore: ^3.0.0
-  carousel_slider: ^5.0.0
-  smooth_page_indicator: ^1.2.0+3
-  retrofit: ^4.5.0
-  logger: ^2.6.0
-  json_annotation: ^4.9.0
-  pretty_dio_logger: ^1.4.0
-  flutter_bloc: ^9.1.1
-  injectable: ^2.5.1
-  get_it: ^8.2.0
-  dio: ^5.9.0
-  shared_preferences: ^2.5.3
+cupertino_icons: ^1.0.8
+fluttertoast: ^8.2.10
+google_fonts: ^6.2.1
+flutter_screenutil: ^5.9.3
+auto_size_text: ^3.0.0
+flutter_native_splash: ^2.4.4
+cached_network_image: ^3.4.1
+flutter_image_slideshow: ^0.1.6
+colornames: ^0.2.0
+carousel_slider_plus: ^7.1.0
+readmore: ^3.0.0
+carousel_slider: ^5.0.0
+smooth_page_indicator: ^1.2.0+3
+retrofit: ^4.5.0
+logger: ^2.6.0
+json_annotation: ^4.9.0
+pretty_dio_logger: ^1.4.0
+flutter_bloc: ^9.1.1
+injectable: ^2.5.1
+get_it: ^8.2.0
+dio: ^5.9.0
+shared_preferences: ^2.5.3
+
 
 
  ##  Images
