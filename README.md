@@ -32,6 +32,8 @@ Flutter + Dart
 - Google Fonts, Cached Images, Carousel Slider
 
 ## Dependencies
+
+```yaml
 cupertino_icons: ^1.0.8
 fluttertoast: ^8.2.10
 google_fonts: ^6.2.1
@@ -54,6 +56,8 @@ injectable: ^2.5.1
 get_it: ^8.2.0
 dio: ^5.9.0
 shared_preferences: ^2.5.3
+```
+
 
 
 
