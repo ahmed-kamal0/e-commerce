@@ -66,15 +66,16 @@ Run Pub
  ##  Images
 
 <div align="center">
-<img width="430" height="932" alt="sign up" src="https://github.com/user-attachments/assets/bceaad70-7919-4d26-ba42-c75963809ea0" />
-<img width="430" height="932" alt="sign in" src="https://github.com/user-attachments/assets/e992d0dc-47d1-471e-9a43-f5d2e521054a" />
-<img width="430" height="932" alt="Product list" src="https://github.com/user-attachments/assets/22e0d97b-de5c-418b-9d3d-58f2280a6aff" />
-<img width="430" height="932" alt="Product Details" src="https://github.com/user-attachments/assets/d8271744-7c63-4191-b49c-1e11e0b1c011" />
-<img width="430" height="932" alt="home" src="https://github.com/user-attachments/assets/d6e6f75b-0661-47c1-897e-fdbf3a37dc5b" />
-<img width="430" height="932" alt="Categories-women" src="https://github.com/user-attachments/assets/cfe677f3-82f5-47ba-b1c7-abdada9ef50d" />
-<img width="430" height="932" alt="Categories-men" src="https://github.com/user-attachments/assets/2dac95ea-1729-4f42-a8f8-c34e22baf56f" />
-<img width="430" height="932" alt="Cart" src="https://github.com/user-attachments/assets/c9673a4b-c19d-46c9-8e27-420a7f66dd79" />
-<img width="430" height="932" alt="Account" src="https://github.com/user-attachments/assets/f3db0fc2-6586-45e0-b4c7-ff21ac09ede6" />
+  <img width="150" height="330" src="https://github.com/user-attachments/assets/bceaad70-7919-4d26-ba42-c75963809ea0" />
+  <img width="150" height="330" src="https://github.com/user-attachments/assets/e992d0dc-47d1-471e-9a43-f5d2e521054a" />
+  <img width="150" height="330" src="https://github.com/user-attachments/assets/22e0d97b-de5c-418b-9d3d-58f2280a6aff" />
+  <img width="150" height="330" src="https://github.com/user-attachments/assets/d8271744-7c63-4191-b49c-1e11e0b1c011" />
+  <img width="150" height="330" src="https://github.com/user-attachments/assets/d6e6f75b-0661-47c1-897e-fdbf3a37dc5b" />
+  <img width="150" height="330" src="https://github.com/user-attachments/assets/cfe677f3-82f5-47ba-b1c7-abdada9ef50d" />
+  <img width="150" height="330" src="https://github.com/user-attachments/assets/2dac95ea-1729-4f42-a8f8-c34e22baf56f" />
+  <img width="150" height="330" src="https://github.com/user-attachments/assets/c9673a4b-c19d-46c9-8e27-420a7f66dd79" />
+  <img width="150" height="330" src="https://github.com/user-attachments/assets/f3db0fc2-6586-45e0-b4c7-ff21ac09ede6" />
+</div>
 
 
 
